@@ -1,0 +1,15 @@
+# Title: Phishing
+# Description: Phishing domain received in Canada
+# Version: 2023-03-28
+#
+0.0.0.0 www1bmo.info
+0.0.0.0 045.giga-t.top
+0.0.0.0 www.receivetransfer-et3.com
+0.0.0.0 receivetransfer-et3.com
+0.0.0.0 owea05bmo.com
+0.0.0.0 purolator-tracking.online
+0.0.0.0 upsenlignefraisauclientqc.com
+0.0.0.0 rbc-safety.com
+0.0.0.0 et-interacdeposit.com
+0.0.0.0 gov-canetransfe.canetransfe
+0.0.0.0 lnteracs1.com
