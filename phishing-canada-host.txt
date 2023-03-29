@@ -11,5 +11,5 @@
 0.0.0.0 upsenlignefraisauclientqc.com
 0.0.0.0 rbc-safety.com
 0.0.0.0 et-interacdeposit.com
-0.0.0.0 gov-canetransfe.canetransfe
+0.0.0.0 gov-canetransfe.ca
 0.0.0.0 lnteracs1.com
