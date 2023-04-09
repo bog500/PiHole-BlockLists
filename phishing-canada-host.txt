@@ -13,3 +13,5 @@
 0.0.0.0 et-interacdeposit.com
 0.0.0.0 gov-canetransfe.ca
 0.0.0.0 lnteracs1.com
+0.0.0.0 post-canada-delivery2023.com
+0.0.0.0 hydr0qcretour.online
