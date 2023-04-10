@@ -1,7 +1,7 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2023-03-28
-#
+# Version: 2023-04-09
+
 0.0.0.0 www1bmo.info
 0.0.0.0 045.giga-t.top
 0.0.0.0 www.receivetransfer-et3.com
@@ -15,3 +15,4 @@
 0.0.0.0 lnteracs1.com
 0.0.0.0 post-canada-delivery2023.com
 0.0.0.0 hydr0qcretour.online
+0.0.0.0 o2qr.com
