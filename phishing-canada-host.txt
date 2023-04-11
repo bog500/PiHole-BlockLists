@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2023-04-09
+# Version: 2023-04-10
 
 0.0.0.0 www1bmo.info
 0.0.0.0 045.giga-t.top
@@ -16,3 +16,5 @@
 0.0.0.0 post-canada-delivery2023.com
 0.0.0.0 hydr0qcretour.online
 0.0.0.0 o2qr.com
+0.0.0.0 k1ti.com
+0.0.0.0 hydroquebec-t.xyz
