@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-02-09
+# Version: 2024-02-13
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 a25-aide.com
@@ -52,6 +52,7 @@
 0.0.0.0 ponta25-webpaiement.com
 0.0.0.0 post-canada-delivery2023.com
 0.0.0.0 purolator-tracking.online
+0.0.0.0 qbaaaazz23.mcdir.me
 0.0.0.0 qc-amendeservice.com
 0.0.0.0 qcinfraction.com
 0.0.0.0 rbc-safety.com
