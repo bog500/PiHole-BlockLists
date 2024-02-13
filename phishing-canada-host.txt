@@ -28,6 +28,8 @@
 0.0.0.0 a25-supports.com
 0.0.0.0 a25web.com
 0.0.0.0 a25-webclient.com
+0.0.0.0 applyworkforce.com
+0.0.0.0 bell-co.me
 0.0.0.0 blog.skartinx.com
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 deliveryrearrangingpage.info
@@ -44,6 +46,7 @@
 0.0.0.0 interac-online.com
 0.0.0.0 k1ti.com
 0.0.0.0 lnteracs1.com
+0.0.0.0 login-my-gov.com
 0.0.0.0 netfastshop.com
 0.0.0.0 o2qr.com
 0.0.0.0 owea05bmo.com
@@ -52,6 +55,7 @@
 0.0.0.0 payment-a25.com
 0.0.0.0 ponta25-webpaiement.com
 0.0.0.0 post-canada-delivery2023.com
+0.0.0.0 pulsapaypal.co.id
 0.0.0.0 purolator-tracking.online
 0.0.0.0 qbaaaazz23.mcdir.me
 0.0.0.0 qc-amendeservice.com
@@ -66,5 +70,7 @@
 0.0.0.0 skartinx.com
 0.0.0.0 spotify-redeem-12421.com
 0.0.0.0 upsenlignefraisauclientqc.com
+0.0.0.0 vwwwv-findmyphone.us
+0.0.0.0 wvwvw-findmyphone.us
 0.0.0.0 www.receivetransfer-et3.com
 0.0.0.0 www1bmo.info
