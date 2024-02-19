@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-02-13
+# Version: 2024-02-19
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 a25-aide.com
@@ -41,6 +41,7 @@
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 gov-canetransfe.ca
 0.0.0.0 gov-canservercorp-refund23.com
+0.0.0.0 hsxry.itlisting.org
 0.0.0.0 hydr0qcretour.online
 0.0.0.0 hydroquebec-t.xyz
 0.0.0.0 img.skartinx.com
