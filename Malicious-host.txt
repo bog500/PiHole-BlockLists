@@ -1,6 +1,7 @@
 # Title: Malicious
 # Description: Malicious domains. Phishing & malware.
-# Version: 2024-02-15
+# Version: 2024-03-07
 
+0.0.0.0 beacon2.sndzar.si
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 vpn404254280.opengw.net
