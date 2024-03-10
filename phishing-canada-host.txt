@@ -1,33 +1,34 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-02-19
+# Version: 2024-03-10
 
 0.0.0.0 045.giga-t.top
+0.0.0.0 a-25pont.com
 0.0.0.0 a25-aide.com
-0.0.0.0 a25cafacture.com
-0.0.0.0 a25ca-facture.com
-0.0.0.0 a25can.com
-0.0.0.0 a25ca-site.com
-0.0.0.0 a25caweb.com
 0.0.0.0 a25-clients.com
 0.0.0.0 a25-express.com
-0.0.0.0 a25fac.com
-0.0.0.0 a25facturation.com
-0.0.0.0 a25-facture.com
 0.0.0.0 a25-facture-enligne1.com
-0.0.0.0 a-25pont.com
-0.0.0.0 a25pont-information.com
+0.0.0.0 a25-facture.com
 0.0.0.0 a25-pontpayants.com
 0.0.0.0 a25-pontpayent.com
+0.0.0.0 a25-servicefacture.com
+0.0.0.0 a25-supports.com
+0.0.0.0 a25-webclient.com
+0.0.0.0 a25ca-facture.com
+0.0.0.0 a25ca-site.com
+0.0.0.0 a25cafacture.com
+0.0.0.0 a25can.com
+0.0.0.0 a25caweb.com
+0.0.0.0 a25fac.com
+0.0.0.0 a25facturation.com
+0.0.0.0 a25pont-information.com
+0.0.0.0 a25pont-laval.com
 0.0.0.0 a25pont-payment.com
 0.0.0.0 a25qc-paiement.com
 0.0.0.0 a25service.com
-0.0.0.0 a25-servicefacture.com
 0.0.0.0 a25site.com
 0.0.0.0 a25sitefacture.com
-0.0.0.0 a25-supports.com
 0.0.0.0 a25web.com
-0.0.0.0 a25-webclient.com
 0.0.0.0 apple-subscription-account.com
 0.0.0.0 applyworkforce.com
 0.0.0.0 bell-co.me
@@ -35,8 +36,8 @@
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 deliveryrearrangingpage.info
 0.0.0.0 dhl-global-services-id00031984.com
-0.0.0.0 et.interac.cm
 0.0.0.0 et-interacdeposit.com
+0.0.0.0 et.interac.cm
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 gov-canetransfe.ca
