@@ -16,6 +16,7 @@
 0.0.0.0 a25-supports.com
 0.0.0.0 a25-webclient.com
 0.0.0.0 a25ca-facture.com
+0.0.0.0 a25ca-paiment.com
 0.0.0.0 a25ca-site.com
 0.0.0.0 a25cafacture.com
 0.0.0.0 a25can.com
