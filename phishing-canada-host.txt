@@ -35,7 +35,15 @@
 0.0.0.0 applyworkforce.com
 0.0.0.0 bell-co.me
 0.0.0.0 blog.skartinx.com
+0.0.0.0 can-post-delivery.com
+0.0.0.0 canadadirectdepositgov.com
+0.0.0.0 canadapost-a.ca
+0.0.0.0 canadapost-reschedule.ca
+0.0.0.0 canadapost-serve.ca
+0.0.0.0 canadapost.redelivercanada.ca
+0.0.0.0 canadapti.com
 0.0.0.0 canadarevenueagency-securedeposit.com
+0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 et-interacdeposit.com
@@ -62,9 +70,12 @@
 0.0.0.0 owea05bmo.com
 0.0.0.0 paimentqc-infraction.com
 0.0.0.0 parcel-cadpost.com
+0.0.0.0 parcel-ups.com
 0.0.0.0 payment-a25.com
 0.0.0.0 ponta25-webpaiement.com
 0.0.0.0 post-canada-delivery2023.com
+0.0.0.0 postescanada-canadapostes.top
+0.0.0.0 postreschedulecan125.com
 0.0.0.0 pulsapaypal.co.id
 0.0.0.0 purolator-tracking.online
 0.0.0.0 qbaaaazz23.mcdir.me
@@ -76,6 +87,7 @@
 0.0.0.0 receivetransfer-et3.com
 0.0.0.0 refundsolutions2024.com
 0.0.0.0 reminder-fundsmissing.info
+0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 scotiaonline-activity.com
 0.0.0.0 servicefacture-quebec.com
 0.0.0.0 shoppshopping.net
@@ -88,5 +100,5 @@
 0.0.0.0 www.e-transfercanada-interac.ga
 0.0.0.0 www.receivetransfer-et3.com
 0.0.0.0 www.sslmobilityreturns.com
-0.0.0.0 www1bmo.info
 0.0.0.0 www.xn--bc-qzs.com
+0.0.0.0 www1bmo.info
