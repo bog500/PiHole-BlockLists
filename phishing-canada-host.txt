@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-10
+# Version: 2024-03-11
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 a-25pont.com
@@ -46,6 +46,7 @@
 0.0.0.0 hydr0qcretour.online
 0.0.0.0 hydroquebec-t.xyz
 0.0.0.0 img.skartinx.com
+0.0.0.0 infosecure-rbcroyalbank.com
 0.0.0.0 interac-online.com
 0.0.0.0 k1ti.com
 0.0.0.0 lnteracs1.com
@@ -68,6 +69,7 @@
 0.0.0.0 receivetransfer-et3.com
 0.0.0.0 refundsolutions2024.com
 0.0.0.0 reminder-fundsmissing.info
+0.0.0.0 scotiaonline-activity.com
 0.0.0.0 servicefacture-quebec.com
 0.0.0.0 shoppshopping.net
 0.0.0.0 skartinx.com
