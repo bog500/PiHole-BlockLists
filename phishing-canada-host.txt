@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-11
+# Version: 2024-03-13
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 407payment-etr.com
@@ -88,6 +88,7 @@
 0.0.0.0 receivetransfer-et3.com
 0.0.0.0 refundsolutions2024.com
 0.0.0.0 reminder-fundsmissing.info
+0.0.0.0 reschedule-parcelpost.com
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 scotiaonline-activity.com
 0.0.0.0 servicefacture-quebec.com
