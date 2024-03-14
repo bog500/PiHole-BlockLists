@@ -1,8 +1,10 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-13
+# Version: 2024-03-14
 
 0.0.0.0 045.giga-t.top
+0.0.0.0 407etr-account.com
+0.0.0.0 407etr-tolls.com
 0.0.0.0 407payment-etr.com
 0.0.0.0 a-25pont.com
 0.0.0.0 a25-aide.com
@@ -44,12 +46,17 @@
 0.0.0.0 canadapost.redelivercanada.ca
 0.0.0.0 canadapti.com
 0.0.0.0 canadarevenueagency-securedeposit.com
+0.0.0.0 costcoannualreturn.com
 0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 et-interacdeposit.com
 0.0.0.0 et.interac.cm
 0.0.0.0 etransfer-online.com
+0.0.0.0 express-toll-route407.com
+0.0.0.0 express-tollroute407.com
+0.0.0.0 expresstoll-route407.com
+0.0.0.0 expresstollroute407.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 go.google.insta.kingshing.com
