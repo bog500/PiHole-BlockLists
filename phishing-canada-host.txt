@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-14
+# Version: 2024-03-18
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -77,6 +77,7 @@
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 giftsfido.com
 0.0.0.0 go.google.insta.kingshing.com
+0.0.0.0 gouv-rev-qc.info
 0.0.0.0 gov-canetransfe.ca
 0.0.0.0 gov-canservercorp-refund23.com
 0.0.0.0 hsxry.itlisting.org
