@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-18
+# Version: 2024-03-19
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -84,9 +84,11 @@
 0.0.0.0 hydr0qcretour.online
 0.0.0.0 hydroquebec-t.xyz
 0.0.0.0 img.skartinx.com
+0.0.0.0 info-compte.com
 0.0.0.0 infosecure-rbcroyalbank.com
 0.0.0.0 interac-depositsecure.com
 0.0.0.0 interac-online.com
+0.0.0.0 interac.retours-clientele.com
 0.0.0.0 interace-transfr-secureverlfy-alert.com
 0.0.0.0 k1ti.com
 0.0.0.0 lnteracs1.com
@@ -127,6 +129,7 @@
 0.0.0.0 reschedule-parcelpost.com
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 royalbank-2.com
+0.0.0.0 saaqetransfer-2024.com
 0.0.0.0 scotian-onlines-resets.com
 0.0.0.0 scotiaonline-activity.com
 0.0.0.0 sctiasecure.domainfss.com
