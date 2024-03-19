@@ -4,6 +4,7 @@
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
+0.0.0.0 2024gstz4.com
 0.0.0.0 407etr-account.com
 0.0.0.0 407etr-tolls.com
 0.0.0.0 407payment-etr.com
@@ -13,6 +14,7 @@
 0.0.0.0 a25-express.com
 0.0.0.0 a25-facture-enligne1.com
 0.0.0.0 a25-facture.com
+0.0.0.0 a25-laval.com
 0.0.0.0 a25-pontpayants.com
 0.0.0.0 a25-pontpayent.com
 0.0.0.0 a25-servicefacture.com
@@ -44,12 +46,16 @@
 0.0.0.0 accweb.mouv.desjardins.secur.com.umbrellaconsultancy.co.za
 0.0.0.0 accwebmov-desjardins.com
 0.0.0.0 accwebs01mouvdesjardins.com
+0.0.0.0 amende-qcservice.com
+0.0.0.0 annual-costcobenefits.com
+0.0.0.0 app.bnc.cabvi.info
 0.0.0.0 apple-subscription-account.com
 0.0.0.0 applyworkforce.com
 0.0.0.0 astequim.com
 0.0.0.0 bankroyal-actvation.esy.es
 0.0.0.0 bell-co.me
 0.0.0.0 blog.skartinx.com
+0.0.0.0 bureau-amendeqc.com
 0.0.0.0 can-post-delivery.com
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
@@ -58,15 +64,19 @@
 0.0.0.0 canadapost.redelivercanada.ca
 0.0.0.0 canadapti.com
 0.0.0.0 canadarevenueagency-securedeposit.com
+0.0.0.0 canadarevenuesgency-securedeposit.com
 0.0.0.0 cibc.ilies.ro
 0.0.0.0 conexionritmica.com
 0.0.0.0 costcoannualreturn.com
+0.0.0.0 criptonteamltd.org
 0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 dossiers-antaigouv.com
+0.0.0.0 e4566r-etransfer-interac.com
 0.0.0.0 et-interacdeposit.com
 0.0.0.0 et.interac.cm
+0.0.0.0 etransfer-23799.com
 0.0.0.0 etransfer-online.com
 0.0.0.0 etransfer-z3x26.ga
 0.0.0.0 express-toll-route407.com
@@ -76,6 +86,7 @@
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 giftsfido.com
+0.0.0.0 gigadatrefund.xyz
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 gouv-rev-qc.info
 0.0.0.0 gov-canetransfe.ca
@@ -86,6 +97,7 @@
 0.0.0.0 img.skartinx.com
 0.0.0.0 info-compte.com
 0.0.0.0 infosecure-rbcroyalbank.com
+0.0.0.0 infractiondemontreal.com
 0.0.0.0 interac-depositsecure.com
 0.0.0.0 interac-online.com
 0.0.0.0 interac.retours-clientele.com
