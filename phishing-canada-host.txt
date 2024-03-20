@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-19
+# Version: 2024-03-20
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -92,6 +92,7 @@
 0.0.0.0 express-tollroute407.com
 0.0.0.0 expresstoll-route407.com
 0.0.0.0 expresstollroute407.com
+0.0.0.0 fastpostcan.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 giftsfido.com
@@ -187,6 +188,7 @@
 0.0.0.0 tdcanadatrustloginpage.com
 0.0.0.0 tdcanadatrustwallet.com
 0.0.0.0 upsenlignefraisauclientqc.com
+0.0.0.0 villedemontreal-contraventions.ca
 0.0.0.0 vwwwv-findmyphone.us
 0.0.0.0 webre.vn
 0.0.0.0 wvwvw-findmyphone.us
