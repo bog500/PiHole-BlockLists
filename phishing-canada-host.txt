@@ -67,10 +67,12 @@
 0.0.0.0 canada-royal-banking-customer-security.info
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
+0.0.0.0 canadapost-postesaanada.icu
 0.0.0.0 canadapost-postelscanada.top
 0.0.0.0 canadapost-reschedule.ca
 0.0.0.0 canadapost-serve.ca
 0.0.0.0 canadapost.redelivercanada.ca
+
 0.0.0.0 canadapti.com
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 canadarevenuesgency-securedeposit.com
@@ -83,6 +85,7 @@
 0.0.0.0 customerpostca.info
 0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
+0.0.0.0 dejardins-securite-enligne1.com
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 dossiers-antaigouv.com
 0.0.0.0 e4566r-etransfer-interac.com
@@ -170,6 +173,7 @@
 0.0.0.0 reminder-fundsmissing.info
 0.0.0.0 reschedule-parcelpost.com
 0.0.0.0 rescheduledelivery-canpost.com
+0.0.0.0 resetmynew-delivery-fedex.com
 0.0.0.0 review-profile.com
 0.0.0.0 royalbank-2.com
 0.0.0.0 royalbank-online-aurh.com
