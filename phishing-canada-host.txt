@@ -72,7 +72,6 @@
 0.0.0.0 canadapost-reschedule.ca
 0.0.0.0 canadapost-serve.ca
 0.0.0.0 canadapost.redelivercanada.ca
-
 0.0.0.0 canadapti.com
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 canadarevenuesgency-securedeposit.com
