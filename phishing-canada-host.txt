@@ -115,6 +115,7 @@
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 giftsfido.com
+0.0.0.0 gigadat-funds.live
 0.0.0.0 gigadatrefund.xyz
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 gouv-rev-qc.info
@@ -198,6 +199,7 @@
 0.0.0.0 royalbankcanada1-auth.com
 0.0.0.0 royalbnkcanada-verify-client-access.com
 0.0.0.0 saaqetransfer-2024.com
+0.0.0.0 scoaccount.ga
 0.0.0.0 scotian-onlines-resets.com
 0.0.0.0 scotiaonline-activity.com
 0.0.0.0 sctiasecure.domainfss.com
