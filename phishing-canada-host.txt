@@ -214,6 +214,7 @@
 0.0.0.0 td.my-authentics-easyweb.com
 0.0.0.0 tdcanadatrustloginpage.com
 0.0.0.0 tdcanadatrustwallet.com
+0.0.0.0 tegmom.fulls.info
 0.0.0.0 tonservicedepotmobile.ca
 0.0.0.0 tracking-update-ca.info
 0.0.0.0 trkslink.top
