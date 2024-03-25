@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-21
+# Version: 2024-03-25
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -67,14 +67,15 @@
 0.0.0.0 canada-royal-banking-customer-security.info
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
-0.0.0.0 canadapost-postesaanada.icu
 0.0.0.0 canadapost-postelscanada.top
+0.0.0.0 canadapost-postesaanada.icu
 0.0.0.0 canadapost-reschedule.ca
 0.0.0.0 canadapost-serve.ca
 0.0.0.0 canadapost.redelivercanada.ca
 0.0.0.0 canadapti.com
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 canadarevenuesgency-securedeposit.com
+0.0.0.0 canadaxpost.top
 0.0.0.0 cibc.ilies.ro
 0.0.0.0 colispostecanada.com
 0.0.0.0 compteresoudre-netflix.com
@@ -82,9 +83,9 @@
 0.0.0.0 costcoannualreturn.com
 0.0.0.0 criptonteamltd.org
 0.0.0.0 customerpostca.info
+0.0.0.0 dejardins-securite-enligne1.com
 0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
-0.0.0.0 dejardins-securite-enligne1.com
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 dossiers-antaigouv.com
 0.0.0.0 e4566r-etransfer-interac.com
@@ -99,6 +100,9 @@
 0.0.0.0 express-tollroute407.com
 0.0.0.0 expresstoll-route407.com
 0.0.0.0 expresstollroute407.com
+0.0.0.0 facturationsaaq-etransfer.com
+0.0.0.0 facturationsaaq2024-etranfer.com
+0.0.0.0 facturationsaaq2024-etransfer.com
 0.0.0.0 fastpostcan.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
@@ -169,6 +173,7 @@
 0.0.0.0 receive00001.online
 0.0.0.0 receivetransfer-et3.com
 0.0.0.0 refundsolutions2024.com
+0.0.0.0 registerpaymentonline.info
 0.0.0.0 reminder-fundsmissing.info
 0.0.0.0 reschedule-parcelpost.com
 0.0.0.0 rescheduledelivery-canpost.com
@@ -189,6 +194,7 @@
 0.0.0.0 servicefacture-quebec.com
 0.0.0.0 servicemobilepay.com
 0.0.0.0 servicesmontreal-ville.com
+0.0.0.0 shipment-fedex-order-ca.com
 0.0.0.0 shoppshopping.net
 0.0.0.0 si-rbcroyalbank.com
 0.0.0.0 skartinx.com
@@ -201,10 +207,13 @@
 0.0.0.0 td.my-authentics-easyweb.com
 0.0.0.0 tdcanadatrustloginpage.com
 0.0.0.0 tdcanadatrustwallet.com
+0.0.0.0 tracking-update-ca.info
 0.0.0.0 upsenlignefraisauclientqc.com
 0.0.0.0 verlfymyvidenfity-secureweb.info
-0.0.0.0 villedemontreal-contraventions.ca
+0.0.0.0 villedemontreal-constatcontravention.ca
 0.0.0.0 villedemontreal-constatscontraventions.ca
+0.0.0.0 villedemontreal-constatsetcontraventions.ca
+0.0.0.0 villedemontreal-contraventions.ca
 0.0.0.0 villedemontreal-contraventionsconstats.ca
 0.0.0.0 vwwwv-findmyphone.us
 0.0.0.0 webre.vn
