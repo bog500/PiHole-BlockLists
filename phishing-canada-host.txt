@@ -55,6 +55,7 @@
 0.0.0.0 apple-subscription-account.com
 0.0.0.0 applyworkforce.com
 0.0.0.0 astequim.com
+0.0.0.0 authentification-accesd.com
 0.0.0.0 authentification-desj.com
 0.0.0.0 authscotla-onliine1.com
 0.0.0.0 bankroyal-actvation.esy.es
@@ -80,6 +81,7 @@
 0.0.0.0 colispostecanada.com
 0.0.0.0 compteresoudre-netflix.com
 0.0.0.0 conexionritmica.com
+0.0.0.0 constatvdm.com
 0.0.0.0 costcoannualreturn.com
 0.0.0.0 criptonteamltd.org
 0.0.0.0 customerpostca.info
@@ -95,6 +97,7 @@
 0.0.0.0 etransfer-online.com
 0.0.0.0 etransfer-z3x26.ga
 0.0.0.0 etransfer28939-saaq.com
+0.0.0.0 etransfer75810.com
 0.0.0.0 etransfer75876.com
 0.0.0.0 express-toll-route407.com
 0.0.0.0 express-tollroute407.com
@@ -127,9 +130,11 @@
 0.0.0.0 k1ti.com
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
+0.0.0.0 mobi-purolator.com
 0.0.0.0 mobile.rbc.com.34-ssl-re-45.com
 0.0.0.0 monaccesdesjardins.com
 0.0.0.0 msss.gouv-sante.ca
+0.0.0.0 mycibc-account-secure.com
 0.0.0.0 netfastshop.com
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.ca-client1.com
@@ -179,6 +184,7 @@
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 resetmynew-delivery-fedex.com
 0.0.0.0 review-profile.com
+0.0.0.0 revquebec-depotgouv.com
 0.0.0.0 royalbank-2.com
 0.0.0.0 royalbank-online-aurh.com
 0.0.0.0 royalbankcanada1-auth.com
@@ -189,6 +195,7 @@
 0.0.0.0 sctiasecure.domainfss.com
 0.0.0.0 secure-inforbcroyalbank.com
 0.0.0.0 secures-rbc.com
+0.0.0.0 securite-enligne-desjardins1.com
 0.0.0.0 service-a25pont-client.com
 0.0.0.0 service-desjardins.online
 0.0.0.0 servicefacture-quebec.com
@@ -207,7 +214,9 @@
 0.0.0.0 td.my-authentics-easyweb.com
 0.0.0.0 tdcanadatrustloginpage.com
 0.0.0.0 tdcanadatrustwallet.com
+0.0.0.0 tonservicedepotmobile.ca
 0.0.0.0 tracking-update-ca.info
+0.0.0.0 trkslink.top
 0.0.0.0 upsenlignefraisauclientqc.com
 0.0.0.0 verlfymyvidenfity-secureweb.info
 0.0.0.0 villedemontreal-constatcontravention.ca
