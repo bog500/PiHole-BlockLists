@@ -162,6 +162,7 @@
 0.0.0.0 post-canada-delivery2023.com
 0.0.0.0 post-canada-reschedule2024.com
 0.0.0.0 post-canada-rescheduledelivery2023.com
+0.0.0.0 post-vzope3.top
 0.0.0.0 postecanadas-canadapostes.top
 0.0.0.0 postescanada-canadapostes.top
 0.0.0.0 postescanada.app.link
