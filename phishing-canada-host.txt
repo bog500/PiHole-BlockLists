@@ -79,6 +79,7 @@
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 canadarevenuesgency-securedeposit.com
 0.0.0.0 canadaxpost.top
+0.0.0.0 cibc-mylogin.com
 0.0.0.0 cibc.ilies.ro
 0.0.0.0 colispostecanada.com
 0.0.0.0 compteresoudre-netflix.com
@@ -134,6 +135,7 @@
 0.0.0.0 interac-online.com
 0.0.0.0 interac.retours-clientele.com
 0.0.0.0 interace-transfr-secureverlfy-alert.com
+0.0.0.0 itemintransitcanada.info
 0.0.0.0 k1ti.com
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
@@ -142,6 +144,7 @@
 0.0.0.0 monaccesdesjardins.com
 0.0.0.0 msss.gouv-sante.ca
 0.0.0.0 mycibc-account-secure.com
+0.0.0.0 myrogersprofile-login.com
 0.0.0.0 netfastshop.com
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.ca-client1.com
@@ -239,6 +242,7 @@
 0.0.0.0 villedemontreal-constatsetcontraventions.ca
 0.0.0.0 villedemontreal-contraventions.ca
 0.0.0.0 villedemontreal-contraventionsconstats.ca
+0.0.0.0 villedemontreal-contraventionsetconstats.ca
 0.0.0.0 vwwwv-findmyphone.us
 0.0.0.0 webre.vn
 0.0.0.0 wvwvw-findmyphone.us
