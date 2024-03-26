@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-25
+# Version: 2024-03-26
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -133,6 +133,7 @@
 0.0.0.0 infractionsmontreal.com
 0.0.0.0 interac-depositsecure.com
 0.0.0.0 interac-online.com
+0.0.0.0 interac-refmb2a.etranfar.com
 0.0.0.0 interac.retours-clientele.com
 0.0.0.0 interace-transfr-secureverlfy-alert.com
 0.0.0.0 itemintransitcanada.info
