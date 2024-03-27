@@ -111,6 +111,7 @@
 0.0.0.0 facturationsaaq-etransfer.com
 0.0.0.0 facturationsaaq2024-etranfer.com
 0.0.0.0 facturationsaaq2024-etransfer.com
+0.0.0.0 facturationsaaq2024etransfer.com
 0.0.0.0 fastpostcan.com
 0.0.0.0 fedex-shipment-delivery-ca.com
 0.0.0.0 fido-refundinc-65.com
@@ -224,6 +225,7 @@
 0.0.0.0 skartinx.com
 0.0.0.0 spotify-redeem-12421.com
 0.0.0.0 sqcregs.com
+0.0.0.0 status-shipment-ca-fedex.com
 0.0.0.0 suivipostescanadastatus.com
 0.0.0.0 svcbservices.com
 0.0.0.0 td-alerts-auth.com
@@ -245,6 +247,7 @@
 0.0.0.0 villedemontreal-contraventions.ca
 0.0.0.0 villedemontreal-contraventionsconstats.ca
 0.0.0.0 villedemontreal-contraventionsetconstats.ca
+0.0.0.0 villedemontreal-paiementcontravention.ca
 0.0.0.0 vwwwv-findmyphone.us
 0.0.0.0 webre.vn
 0.0.0.0 wvwvw-findmyphone.us
