@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-26
+# Version: 2024-03-27
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -19,6 +19,7 @@
 0.0.0.0 a25-pontpayants.com
 0.0.0.0 a25-pontpayent.com
 0.0.0.0 a25-servicefacture.com
+0.0.0.0 a25-services.com
 0.0.0.0 a25-supports.com
 0.0.0.0 a25-webclient.com
 0.0.0.0 a25ca-facture.com
@@ -79,6 +80,7 @@
 0.0.0.0 canadarevenueagency-securedeposit.com
 0.0.0.0 canadarevenuesgency-securedeposit.com
 0.0.0.0 canadaxpost.top
+0.0.0.0 canadcv.top
 0.0.0.0 cibc-mylogin.com
 0.0.0.0 cibc.ilies.ro
 0.0.0.0 colispostecanada.com
@@ -166,6 +168,7 @@
 0.0.0.0 post-vzope3.top
 0.0.0.0 postecanadas-canadapostes.top
 0.0.0.0 postescanada-canadapostes.top
+0.0.0.0 postescanada-colis.kaursblog.in
 0.0.0.0 postescanada.app.link
 0.0.0.0 postescanada.rescheduledelivery-en.com
 0.0.0.0 postreschedulecan125.com
