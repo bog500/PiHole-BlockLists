@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-27
+# Version: 2024-03-28
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -131,6 +131,7 @@
 0.0.0.0 img.skartinx.com
 0.0.0.0 info-compte.com
 0.0.0.0 infopostescanada.com
+0.0.0.0 inforbcroyalbank-secure.com
 0.0.0.0 infosecure-rbcroyalbank.com
 0.0.0.0 infractiondemontreal.com
 0.0.0.0 infractionsmontreal.com
@@ -235,6 +236,7 @@
 0.0.0.0 td.easy1-auth.com
 0.0.0.0 td.my-authentics-easyweb.com
 0.0.0.0 td1info2024-auth.com
+0.0.0.0 tdcadbnk.com
 0.0.0.0 tdcanadatrustloginpage.com
 0.0.0.0 tdcanadatrustwallet.com
 0.0.0.0 tegmom.fulls.info
