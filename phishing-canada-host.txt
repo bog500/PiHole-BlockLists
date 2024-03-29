@@ -141,6 +141,7 @@
 0.0.0.0 interac.retours-clientele.com
 0.0.0.0 interace-transfr-secureverlfy-alert.com
 0.0.0.0 itemintransitcanada.info
+0.0.0.0 jlabh.fulls.info
 0.0.0.0 k1ti.com
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
