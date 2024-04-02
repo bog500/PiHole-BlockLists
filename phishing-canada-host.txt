@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-03-28
+# Version: 2024-04-01
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -68,6 +68,7 @@
 0.0.0.0 bureau-amendeqc.com
 0.0.0.0 can-post-delivery.com
 0.0.0.0 canada-poste-livraison-colis-fr-qc0982.com
+0.0.0.0 canada-postesca.com
 0.0.0.0 canada-royal-banking-customer-security.info
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
@@ -117,6 +118,7 @@
 0.0.0.0 facturationsaaq2024-etransfer.com
 0.0.0.0 facturationsaaq2024etransfer.com
 0.0.0.0 fastpostcan.com
+0.0.0.0 fedex-package-ca.com
 0.0.0.0 fedex-shipment-delivery-ca.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
@@ -145,6 +147,7 @@
 0.0.0.0 itemintransitcanada.info
 0.0.0.0 jlabh.fulls.info
 0.0.0.0 k1ti.com
+0.0.0.0 leadersrevenu.com
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
 0.0.0.0 mobi-purolator.com
@@ -250,6 +253,7 @@
 0.0.0.0 upsenlignefraisauclientqc.com
 0.0.0.0 verlfymyvidenfity-secureweb.info
 0.0.0.0 villedemontreal-constatcontravention.ca
+0.0.0.0 villedemontreal-constatdinfraction.ca
 0.0.0.0 villedemontreal-constatscontraventions.ca
 0.0.0.0 villedemontreal-constatsetcontraventions.ca
 0.0.0.0 villedemontreal-contraventions.ca
