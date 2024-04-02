@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-01
+# Version: 2024-04-02
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -42,6 +42,7 @@
 0.0.0.0 accesd-auth1-mouv.com
 0.0.0.0 accesd-desjardins-fr.com
 0.0.0.0 accesd-desjardins.com
+0.0.0.0 accesd-verification-secure4.com
 0.0.0.0 accesdepo.site
 0.0.0.0 accountstatusnetlfixssl2.info
 0.0.0.0 accweb-desjardins-enligne-securite.com
@@ -130,6 +131,7 @@
 0.0.0.0 gov-canetransfe.ca
 0.0.0.0 gov-canservercorp-refund23.com
 0.0.0.0 hsxry.itlisting.org
+0.0.0.0 hydqc1001.com
 0.0.0.0 hydr0qcretour.online
 0.0.0.0 hydroquebec-t.xyz
 0.0.0.0 img.skartinx.com
@@ -256,11 +258,13 @@
 0.0.0.0 villedemontreal-constatdinfraction.ca
 0.0.0.0 villedemontreal-constatscontraventions.ca
 0.0.0.0 villedemontreal-constatsetcontraventions.ca
+0.0.0.0 villedemontreal-contraventionetconstat.ca
 0.0.0.0 villedemontreal-contraventions.ca
 0.0.0.0 villedemontreal-contraventionsconstats.ca
 0.0.0.0 villedemontreal-contraventionsetconstats.ca
 0.0.0.0 villedemontreal-paiementcontravention.ca
 0.0.0.0 villedemontreal-paiementcontraventions.ca
+0.0.0.0 villedemontreal-paiementdecontraventions.ca
 0.0.0.0 vwwwv-findmyphone.us
 0.0.0.0 webre.vn
 0.0.0.0 wvwvw-findmyphone.us
