@@ -103,6 +103,7 @@
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 dossiers-antaigouv.com
 0.0.0.0 e4566r-etransfer-interac.com
+0.0.0.0 easywebtd-authentication.com
 0.0.0.0 et-interacdeposit.com
 0.0.0.0 et.interac.cm
 0.0.0.0 etransfer-23799.com
@@ -120,6 +121,7 @@
 0.0.0.0 facturationsaaq2024-etransfer.com
 0.0.0.0 facturationsaaq2024etransfer.com
 0.0.0.0 fastpostcan.com
+0.0.0.0 fbingshop.top
 0.0.0.0 fedex-package-ca.com
 0.0.0.0 fedex-shipment-delivery-ca.com
 0.0.0.0 fido-refundinc-65.com
@@ -134,6 +136,7 @@
 0.0.0.0 hsxry.itlisting.org
 0.0.0.0 hydqc1001.com
 0.0.0.0 hydr0qcretour.online
+0.0.0.0 hydroqc-govqc.com
 0.0.0.0 hydroquebec-t.xyz
 0.0.0.0 img.skartinx.com
 0.0.0.0 info-compte.com
@@ -272,6 +275,7 @@
 0.0.0.0 www-rbci-online-authen.xyz
 0.0.0.0 www.chaseaccount24.com
 0.0.0.0 www.e-transfercanada-interac.ga
+0.0.0.0 www.fbingshop.top
 0.0.0.0 www.r0yalbank-rbcsecure.com
 0.0.0.0 www.receivetransfer-et3.com
 0.0.0.0 www.sslmobilityreturns.com
