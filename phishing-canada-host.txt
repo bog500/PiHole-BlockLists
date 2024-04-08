@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-03
+# Version: 2024-04-08
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -57,6 +57,7 @@
 0.0.0.0 app.bnc.cabvi.info
 0.0.0.0 apple-subscription-account.com
 0.0.0.0 applyworkforce.com
+0.0.0.0 arcmondossier.com
 0.0.0.0 astequim.com
 0.0.0.0 authentification-accesd.com
 0.0.0.0 authentification-desj.com
@@ -68,9 +69,12 @@
 0.0.0.0 bm-rbcroyalbank.com
 0.0.0.0 bmo.oniineca.com
 0.0.0.0 bureau-amendeqc.com
+0.0.0.0 ca-postgdm.top
 0.0.0.0 can-post-delivery.com
+0.0.0.0 can140-etdeposit-secureaccount.help
 0.0.0.0 canada-poste-livraison-colis-fr-qc0982.com
 0.0.0.0 canada-postesca.com
+0.0.0.0 canada-postinfo.info
 0.0.0.0 canada-royal-banking-customer-security.info
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
@@ -109,6 +113,7 @@
 0.0.0.0 etransfer-23799.com
 0.0.0.0 etransfer-online.com
 0.0.0.0 etransfer-z3x26.ga
+0.0.0.0 etransfer0424-saaq.com
 0.0.0.0 etransfer28939-saaq.com
 0.0.0.0 etransfer75810.com
 0.0.0.0 etransfer75876.com
@@ -120,6 +125,7 @@
 0.0.0.0 facturationsaaq2024-etranfer.com
 0.0.0.0 facturationsaaq2024-etransfer.com
 0.0.0.0 facturationsaaq2024etransfer.com
+0.0.0.0 facture042024.com
 0.0.0.0 fastpostcan.com
 0.0.0.0 fbingshop.top
 0.0.0.0 fedex-package-ca.com
@@ -245,6 +251,7 @@
 0.0.0.0 suivipostescanadastatus.com
 0.0.0.0 svcbservices.com
 0.0.0.0 td-alerts-auth.com
+0.0.0.0 td-authlogin2024.com
 0.0.0.0 td.easy1-auth.com
 0.0.0.0 td.my-authentics-easyweb.com
 0.0.0.0 td1info2024-auth.com
@@ -280,5 +287,6 @@
 0.0.0.0 www.receivetransfer-et3.com
 0.0.0.0 www.sslmobilityreturns.com
 0.0.0.0 www.xn--bc-qzs.com
+0.0.0.0 www.xyrialimmocanada.online
 0.0.0.0 www1.royalbank.com.cgi-bin-rbaccess-rbunxcgi.gq
 0.0.0.0 www1bmo.info
