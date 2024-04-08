@@ -67,6 +67,7 @@
 0.0.0.0 bell-co.me
 0.0.0.0 blog.skartinx.com
 0.0.0.0 bm-rbcroyalbank.com
+0.0.0.0 bmo.m2-online-ca.com
 0.0.0.0 bmo.oniineca.com
 0.0.0.0 bureau-amendeqc.com
 0.0.0.0 ca-postgdm.top
