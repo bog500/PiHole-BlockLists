@@ -83,6 +83,7 @@
 0.0.0.0 canadapost-postesaanada.icu
 0.0.0.0 canadapost-reschedule.ca
 0.0.0.0 canadapost-serve.ca
+0.0.0.0 canadapost.com-helpais.top
 0.0.0.0 canadapost.helpcp.top
 0.0.0.0 canadapost.helpha.top
 0.0.0.0 canadapost.redelivercanada.ca
