@@ -34,8 +34,8 @@
 0.0.0.0 a25pont-laval.com
 0.0.0.0 a25pont-payment.com
 0.0.0.0 a25qc-paiement.com
-0.0.0.0 a25service.com
 0.0.0.0 a25s.online
+0.0.0.0 a25service.com
 0.0.0.0 a25site.com
 0.0.0.0 a25sitefacture.com
 0.0.0.0 a25web.com
@@ -113,6 +113,7 @@
 0.0.0.0 easywebtd-authentication.com
 0.0.0.0 et-interacdeposit.com
 0.0.0.0 et.interac.cm
+0.0.0.0 etr-407-payment.com
 0.0.0.0 etransfer-23799.com
 0.0.0.0 etransfer-online.com
 0.0.0.0 etransfer-z3x26.ga
