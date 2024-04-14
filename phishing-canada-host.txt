@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-11
+# Version: 2024-04-14
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -72,6 +72,7 @@
 0.0.0.0 bmo.oniineca.com
 0.0.0.0 bureau-amendeqc.com
 0.0.0.0 ca-postgdm.top
+0.0.0.0 cad-loan.com
 0.0.0.0 can-post-delivery.com
 0.0.0.0 can140-etdeposit-secureaccount.help
 0.0.0.0 canada-poste-livraison-colis-fr-qc0982.com
@@ -132,10 +133,12 @@
 0.0.0.0 facture042024.com
 0.0.0.0 fastpostcan.com
 0.0.0.0 fbingshop.top
+0.0.0.0 fedex-order-id5284628.com
 0.0.0.0 fedex-package-ca.com
 0.0.0.0 fedex-shipment-delivery-ca.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
+0.0.0.0 gestionlocativespro.com
 0.0.0.0 giftsfido.com
 0.0.0.0 gigadat-funds.live
 0.0.0.0 gigadatrefund.xyz
@@ -170,6 +173,7 @@
 0.0.0.0 mobile.rbc.com.34-ssl-re-45.com
 0.0.0.0 monaccesdesjardins.com
 0.0.0.0 msss.gouv-sante.ca
+0.0.0.0 mycfdcapital.com
 0.0.0.0 mycibc-account-secure.com
 0.0.0.0 myrogersprofile-login.com
 0.0.0.0 netfastshop.com
@@ -221,6 +225,7 @@
 0.0.0.0 refundsolutions2024.com
 0.0.0.0 registerpaymentonline.info
 0.0.0.0 reminder-fundsmissing.info
+0.0.0.0 remise-annuelle-costco.ca
 0.0.0.0 reschedule-parcelpost.com
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 resetmynew-delivery-fedex.com
@@ -253,6 +258,7 @@
 0.0.0.0 sqcregs.com
 0.0.0.0 status-fedex-id942825.com
 0.0.0.0 status-shipment-ca-fedex.com
+0.0.0.0 steamcommumnuty.com
 0.0.0.0 suivipostescanadastatus.com
 0.0.0.0 svcbservices.com
 0.0.0.0 td-alerts-auth.com
