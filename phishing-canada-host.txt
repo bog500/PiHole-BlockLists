@@ -55,6 +55,7 @@
 0.0.0.0 accwebs01mouvdesjardins.com
 0.0.0.0 amazon-qc-compte12.com
 0.0.0.0 amende-qcservice.com
+0.0.0.0 amendes-relance.com
 0.0.0.0 annual-costcobenefits.com
 0.0.0.0 app.bnc.cabvi.info
 0.0.0.0 apple-subscription-account.com
@@ -104,10 +105,12 @@
 0.0.0.0 costcoannualreturn.com
 0.0.0.0 costcowholesale-myrewards.com
 0.0.0.0 criptonteamltd.org
+0.0.0.0 css-move-desj.com
 0.0.0.0 customerpostca.info
 0.0.0.0 dejardins-securite-enligne1.com
 0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
+0.0.0.0 desjardins-auth1-mouv.com
 0.0.0.0 dhl-customsclearance.com
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 dossiers-antaigouv.com
@@ -233,6 +236,7 @@
 0.0.0.0 resetmynew-delivery-fedex.com
 0.0.0.0 review-profile.com
 0.0.0.0 revquebec-depotgouv.com
+0.0.0.0 royai-service-2024.com
 0.0.0.0 royalbank-2.com
 0.0.0.0 royalbank-online-aurh.com
 0.0.0.0 royalbankcanada1-auth.com
