@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-14
+# Version: 2024-04-15
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -43,6 +43,7 @@
 0.0.0.0 accesd-auth1-mouv.com
 0.0.0.0 accesd-desjardins-fr.com
 0.0.0.0 accesd-desjardins.com
+0.0.0.0 accesd-verification-auth7.com
 0.0.0.0 accesd-verification-secure4.com
 0.0.0.0 accesdepo.site
 0.0.0.0 accountstatusnetlfixssl2.info
@@ -151,6 +152,7 @@
 0.0.0.0 hydr0qcretour.online
 0.0.0.0 hydroqc-govqc.com
 0.0.0.0 hydroquebec-t.xyz
+0.0.0.0 id624284-package-ca.com
 0.0.0.0 img.skartinx.com
 0.0.0.0 info-compte.com
 0.0.0.0 infopostescanada.com
@@ -275,6 +277,8 @@
 0.0.0.0 trkslink.top
 0.0.0.0 ups-parcel.ca
 0.0.0.0 upsenlignefraisauclientqc.com
+0.0.0.0 urxetqw.com
+0.0.0.0 uscng.pw
 0.0.0.0 verlfymyvidenfity-secureweb.info
 0.0.0.0 villedemontreal-constatcontravention.ca
 0.0.0.0 villedemontreal-constatdinfraction.ca
