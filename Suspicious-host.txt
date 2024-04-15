@@ -1,10 +1,11 @@
 # Title: Malicious
-# Description: Malicious and suspicious domains. Phishing, malware, scam, etc.
+# Description: suspicious domains: Phishing, malware, scam, spam, fraud, etc.
 # Version: 2024-04-14
 
 0.0.0.0 2tw6.voupararderoncar.com.br
 0.0.0.0 beacon2.sndzar.si
 0.0.0.0 bouchard-services.ca
+0.0.0.0 brandasticwork.com
 0.0.0.0 f005.backblazeb2.com
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 iyv.superparkers.co.uk
