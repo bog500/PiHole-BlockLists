@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-15
+# Version: 2024-04-19
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -116,6 +116,7 @@
 0.0.0.0 dossiers-antaigouv.com
 0.0.0.0 e4566r-etransfer-interac.com
 0.0.0.0 easywebtd-authentication.com
+0.0.0.0 eprimecaplased.tel
 0.0.0.0 et-interacdeposit.com
 0.0.0.0 et.interac.cm
 0.0.0.0 etr-407-payment.com
@@ -158,6 +159,7 @@
 0.0.0.0 id624284-package-ca.com
 0.0.0.0 img.skartinx.com
 0.0.0.0 info-compte.com
+0.0.0.0 info-tracking-fedex-ca.com
 0.0.0.0 infopostescanada.com
 0.0.0.0 inforbcroyalbank-secure.com
 0.0.0.0 infosecure-rbcroyalbank.com
@@ -236,6 +238,7 @@
 0.0.0.0 resetmynew-delivery-fedex.com
 0.0.0.0 review-profile.com
 0.0.0.0 revquebec-depotgouv.com
+0.0.0.0 romaintexwil.nl
 0.0.0.0 royai-service-2024.com
 0.0.0.0 royalbank-2.com
 0.0.0.0 royalbank-online-aurh.com
@@ -305,6 +308,7 @@
 0.0.0.0 www.fbingshop.top
 0.0.0.0 www.r0yalbank-rbcsecure.com
 0.0.0.0 www.receivetransfer-et3.com
+0.0.0.0 www.romaintexwil.nl
 0.0.0.0 www.sslmobilityreturns.com
 0.0.0.0 www.xn--bc-qzs.com
 0.0.0.0 www.xyrialimmocanada.online
