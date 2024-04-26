@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-19
+# Version: 2024-04-25
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -72,6 +72,7 @@
 0.0.0.0 bm-rbcroyalbank.com
 0.0.0.0 bmo.m2-online-ca.com
 0.0.0.0 bmo.oniineca.com
+0.0.0.0 bmopersonalclient.com
 0.0.0.0 bureau-amendeqc.com
 0.0.0.0 ca-postgdm.top
 0.0.0.0 cad-loan.com
