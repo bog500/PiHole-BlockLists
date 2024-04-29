@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-25
+# Version: 2024-04-29
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -188,6 +188,7 @@
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.ca-client1.com
 0.0.0.0 netflixca-updateprofilehelp.com
+0.0.0.0 notif-rqc.online
 0.0.0.0 o2qr.com
 0.0.0.0 onlinevaccination.online
 0.0.0.0 owea05bmo.com
