@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-04-29
+# Version: 2024-05-06
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -53,6 +53,7 @@
 0.0.0.0 accweb.mouv.desjardins.secur.com.umbrellaconsultancy.co.za
 0.0.0.0 accwebmov-desjardins.com
 0.0.0.0 accwebs01mouvdesjardins.com
+0.0.0.0 amazon-ca-payment-update.weebly.com
 0.0.0.0 amazon-qc-compte12.com
 0.0.0.0 amende-qcservice.com
 0.0.0.0 amendes-relance.com
@@ -191,6 +192,7 @@
 0.0.0.0 notif-rqc.online
 0.0.0.0 o2qr.com
 0.0.0.0 onlinevaccination.online
+0.0.0.0 order-ups-pending-ca.com
 0.0.0.0 owea05bmo.com
 0.0.0.0 paiement-gouvamende.com
 0.0.0.0 paimentqc-infraction.com
