@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-05-08
+# Version: 2024-05-10
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -285,6 +285,7 @@
 0.0.0.0 tdcanadatrustwallet.com
 0.0.0.0 tegmom.fulls.info
 0.0.0.0 tonservicedepotmobile.ca
+0.0.0.0 track-ups-order-ca.com
 0.0.0.0 tracking-update-ca.info
 0.0.0.0 trkslink.top
 0.0.0.0 ups-parcel.ca
@@ -319,3 +320,4 @@
 0.0.0.0 www.xyrialimmocanada.online
 0.0.0.0 www1.royalbank.com.cgi-bin-rbaccess-rbunxcgi.gq
 0.0.0.0 www1bmo.info
+0.0.0.0 wwwet-interac.com
