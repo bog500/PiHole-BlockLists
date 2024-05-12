@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-05-10
+# Version: 2024-05-12
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -178,6 +178,7 @@
 0.0.0.0 leadersrevenu.com
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
+0.0.0.0 manageaccess.info
 0.0.0.0 mobi-purolator.com
 0.0.0.0 mobile.rbc.com.34-ssl-re-45.com
 0.0.0.0 monaccesdesjardins.com
@@ -185,6 +186,7 @@
 0.0.0.0 mycfdcapital.com
 0.0.0.0 mycibc-account-secure.com
 0.0.0.0 myrogersprofile-login.com
+0.0.0.0 nbc-connexion.com
 0.0.0.0 netfastshop.com
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.ca-client1.com
@@ -250,6 +252,7 @@
 0.0.0.0 royalbnkcanada-verify-client-access.com
 0.0.0.0 saaqetransfer-2024.com
 0.0.0.0 scoaccount.ga
+0.0.0.0 scotia-onlinebanking.com
 0.0.0.0 scotian-onlines-resets.com
 0.0.0.0 scotiaonline-activity.com
 0.0.0.0 sctiasecure.domainfss.com
