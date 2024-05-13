@@ -145,6 +145,7 @@
 0.0.0.0 fedex-shipment-delivery-ca.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
+0.0.0.0 gestionaccess.info
 0.0.0.0 gestionlocativespro.com
 0.0.0.0 giftsfido.com
 0.0.0.0 gigadat-funds.live
