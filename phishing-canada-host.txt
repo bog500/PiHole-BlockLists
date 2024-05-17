@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-05-12
+# Version: 2024-05-16
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -30,6 +30,7 @@
 0.0.0.0 a25caweb.com
 0.0.0.0 a25fac.com
 0.0.0.0 a25facturation.com
+0.0.0.0 a25pont-compte.com
 0.0.0.0 a25pont-information.com
 0.0.0.0 a25pont-laval.com
 0.0.0.0 a25pont-payment.com
@@ -199,6 +200,7 @@
 0.0.0.0 owea05bmo.com
 0.0.0.0 paiement-gouvamende.com
 0.0.0.0 paimentqc-infraction.com
+0.0.0.0 payment9-iintfertfnd.weebly.com
 0.0.0.0 parcel-cadpost.com
 0.0.0.0 parcel-ups.com
 0.0.0.0 payment-a25.com
