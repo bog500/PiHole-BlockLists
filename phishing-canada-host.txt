@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-05-16
+# Version: 2024-05-22
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -64,6 +64,7 @@
 0.0.0.0 applyworkforce.com
 0.0.0.0 arcmondossier.com
 0.0.0.0 astequim.com
+0.0.0.0 auth-securerbc.com
 0.0.0.0 authentification-accesd.com
 0.0.0.0 authentification-desj.com
 0.0.0.0 authscotia-scotiaonline.com
@@ -200,10 +201,10 @@
 0.0.0.0 owea05bmo.com
 0.0.0.0 paiement-gouvamende.com
 0.0.0.0 paimentqc-infraction.com
-0.0.0.0 payment9-iintfertfnd.weebly.com
 0.0.0.0 parcel-cadpost.com
 0.0.0.0 parcel-ups.com
 0.0.0.0 payment-a25.com
+0.0.0.0 payment9-iintfertfnd.weebly.com
 0.0.0.0 ponta25-webpaiement.com
 0.0.0.0 post-canada-delivery2023.com
 0.0.0.0 post-canada-reschedule2024.com
