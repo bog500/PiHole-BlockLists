@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-05-22
+# Version: 2024-05-25
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -63,6 +63,7 @@
 0.0.0.0 apple-subscription-account.com
 0.0.0.0 applyworkforce.com
 0.0.0.0 arcmondossier.com
+0.0.0.0 armg.co
 0.0.0.0 astequim.com
 0.0.0.0 auth-securerbc.com
 0.0.0.0 authentification-accesd.com
@@ -181,6 +182,7 @@
 0.0.0.0 leadersrevenu.com
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
+0.0.0.0 loginvilledemontreal.com
 0.0.0.0 manageaccess.info
 0.0.0.0 mobi-purolator.com
 0.0.0.0 mobile.rbc.com.34-ssl-re-45.com
@@ -200,6 +202,7 @@
 0.0.0.0 order-ups-pending-ca.com
 0.0.0.0 owea05bmo.com
 0.0.0.0 paiement-gouvamende.com
+0.0.0.0 paimentdevillemontreal.com
 0.0.0.0 paimentqc-infraction.com
 0.0.0.0 parcel-cadpost.com
 0.0.0.0 parcel-ups.com
@@ -217,6 +220,7 @@
 0.0.0.0 postescanada.rescheduledelivery-en.com
 0.0.0.0 postreschedulecan125.com
 0.0.0.0 profileissue-membership.com
+0.0.0.0 psskjuhg667.svmhdvn.name
 0.0.0.0 pulsapaypal.co.id
 0.0.0.0 purolator-tracking.online
 0.0.0.0 qbaaaazz23.mcdir.me
@@ -291,6 +295,7 @@
 0.0.0.0 tdcanadatrustloginpage.com
 0.0.0.0 tdcanadatrustwallet.com
 0.0.0.0 tegmom.fulls.info
+0.0.0.0 ticket-pay-2024.com
 0.0.0.0 tonservicedepotmobile.ca
 0.0.0.0 track-ups-order-ca.com
 0.0.0.0 tracking-update-ca.info
