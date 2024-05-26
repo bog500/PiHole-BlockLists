@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-05-25
+# Version: 2024-05-26
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -263,6 +263,7 @@
 0.0.0.0 scotia-onlinebanking.com
 0.0.0.0 scotian-onlines-resets.com
 0.0.0.0 scotiaonline-activity.com
+0.0.0.0 scotiaonline-helpscotia.com
 0.0.0.0 sctiasecure.domainfss.com
 0.0.0.0 secure-inforbcroyalbank.com
 0.0.0.0 secures-rbc.com
