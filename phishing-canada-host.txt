@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-06-05
+# Version: 2024-06-14
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -257,6 +257,7 @@
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 resetmynew-delivery-fedex.com
 0.0.0.0 review-profile.com
+0.0.0.0 revisionofshipdetials1adjustment.info
 0.0.0.0 revquebec-depotgouv.com
 0.0.0.0 romaintexwil.nl
 0.0.0.0 royai-service-2024.com
