@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-06-14
+# Version: 2024-06-16
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -45,6 +45,7 @@
 0.0.0.0 accesd-desjardins-fr.com
 0.0.0.0 accesd-desjardins.com
 0.0.0.0 accesd-verification-auth7.com
+0.0.0.0 accweb-verification-auth7.com
 0.0.0.0 accesd-verification-secure4.com
 0.0.0.0 accesdepo.site
 0.0.0.0 accountstatusnetlfixssl2.info
@@ -78,6 +79,7 @@
 0.0.0.0 bmo.m2-online-ca.com
 0.0.0.0 bmo.oniineca.com
 0.0.0.0 bmopersonalclient.com
+0.0.0.0 bmwmotorradvip.shop
 0.0.0.0 bureau-amendeqc.com
 0.0.0.0 ca-postgdm.top
 0.0.0.0 cad-loan.com
@@ -330,6 +332,7 @@
 0.0.0.0 wvwvw-findmyphone.us
 0.0.0.0 www-rbci-online-authen.xyz
 0.0.0.0 www.chaseaccount24.com
+0.0.0.0 www.costco-xva.net
 0.0.0.0 www.e-transfercanada-interac.ga
 0.0.0.0 www.fbingshop.top
 0.0.0.0 www.r0yalbank-rbcsecure.com
