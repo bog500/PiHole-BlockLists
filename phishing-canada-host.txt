@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-06-16
+# Version: 2024-06-30
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -45,12 +45,12 @@
 0.0.0.0 accesd-desjardins-fr.com
 0.0.0.0 accesd-desjardins.com
 0.0.0.0 accesd-verification-auth7.com
-0.0.0.0 accweb-verification-auth7.com
 0.0.0.0 accesd-verification-secure4.com
 0.0.0.0 accesdepo.site
 0.0.0.0 accountstatusnetlfixssl2.info
 0.0.0.0 accweb-desjardins-enligne-securite.com
 0.0.0.0 accweb-mouvement-desjardins-securite.com
+0.0.0.0 accweb-verification-auth7.com
 0.0.0.0 accweb.mouv.acadie3.cfd
 0.0.0.0 accweb.mouv.desjardins.secur.com.umbrellaconsultancy.co.za
 0.0.0.0 accwebmov-desjardins.com
@@ -92,11 +92,12 @@
 0.0.0.0 canada-royal-banking-customer-security.info
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
-0.0.0.0 canadapost-pptaa.com
 0.0.0.0 canadapost-postelscanada.top
 0.0.0.0 canadapost-postesaanada.icu
+0.0.0.0 canadapost-pptaa.com
 0.0.0.0 canadapost-reschedule.ca
 0.0.0.0 canadapost-serve.ca
+0.0.0.0 canadapost.ca-help-04.top
 0.0.0.0 canadapost.com-helpais.top
 0.0.0.0 canadapost.helpcp.top
 0.0.0.0 canadapost.helpha.top
@@ -159,6 +160,7 @@
 0.0.0.0 giftsfido.com
 0.0.0.0 gigadat-funds.live
 0.0.0.0 gigadatrefund.xyz
+0.0.0.0 gigadats-funds.com
 0.0.0.0 go.google.insta.kingshing.com
 0.0.0.0 gouv-rev-qc.info
 0.0.0.0 gov-canetransfe.ca
@@ -236,6 +238,7 @@
 0.0.0.0 qc-canada-poste-colis-ca.com
 0.0.0.0 qc-canada-poste-livraison-colis-ca.com
 0.0.0.0 qc-colis-poste-canada-id-livraison.ca
+0.0.0.0 qccanadapost-en.ca
 0.0.0.0 qcinfraction.com
 0.0.0.0 rbc-royal-secure.com
 0.0.0.0 rbc-safety.com
