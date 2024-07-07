@@ -1,10 +1,11 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-06-30
+# Version: 2024-07-07
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
 0.0.0.0 2024gstz4.com
+0.0.0.0 3bnc-canada9atw.com
 0.0.0.0 407etr-account.com
 0.0.0.0 407etr-tolls.com
 0.0.0.0 407payment-etr.com
@@ -318,6 +319,7 @@
 0.0.0.0 urxetqw.com
 0.0.0.0 uscng.pw
 0.0.0.0 verlfymyvidenfity-secureweb.info
+0.0.0.0 ville-quebec-ticket-parking.com
 0.0.0.0 villedemontreal-constatcontravention.ca
 0.0.0.0 villedemontreal-constatdinfraction.ca
 0.0.0.0 villedemontreal-constatscontraventions.ca
