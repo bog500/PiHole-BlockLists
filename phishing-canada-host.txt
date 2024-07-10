@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-07-07
+# Version: 2024-07-09
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0secure-royalbank.com
@@ -224,6 +224,7 @@
 0.0.0.0 post-canada-reschedule2024.com
 0.0.0.0 post-canada-rescheduledelivery2023.com
 0.0.0.0 post-vzope3.top
+0.0.0.0 postcanada-canadaposte.6sec.info
 0.0.0.0 postecanadas-canadapostes.top
 0.0.0.0 postescanada-canadapostes.top
 0.0.0.0 postescanada-colis.kaursblog.in
@@ -262,6 +263,7 @@
 0.0.0.0 reschedule-parcelpost.com
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 resetmynew-delivery-fedex.com
+0.0.0.0 reshedule-canadapost-postecanada.com
 0.0.0.0 review-profile.com
 0.0.0.0 revisionofshipdetials1adjustment.info
 0.0.0.0 revquebec-depotgouv.com
@@ -297,6 +299,7 @@
 0.0.0.0 status-fedex-id942825.com
 0.0.0.0 status-shipment-ca-fedex.com
 0.0.0.0 steamcommumnuty.com
+0.0.0.0 suivipostescanadalivraison.com
 0.0.0.0 suivipostescanadastatus.com
 0.0.0.0 svcbservices.com
 0.0.0.0 tangerine.ca-dac-service.com
@@ -318,6 +321,7 @@
 0.0.0.0 upsenlignefraisauclientqc.com
 0.0.0.0 urxetqw.com
 0.0.0.0 uscng.pw
+0.0.0.0 usps-xc-track.com
 0.0.0.0 verlfymyvidenfity-secureweb.info
 0.0.0.0 ville-quebec-ticket-parking.com
 0.0.0.0 villedemontreal-constatcontravention.ca
