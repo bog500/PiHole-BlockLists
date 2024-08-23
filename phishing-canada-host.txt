@@ -113,6 +113,7 @@
 0.0.0.0 canadcv.top
 0.0.0.0 cibc-mylogin.com
 0.0.0.0 cibc.ilies.ro
+0.0.0.0 client.hydroquebec.cam
 0.0.0.0 colispostecanada.com
 0.0.0.0 compteresoudre-netflix.com
 0.0.0.0 conexionritmica.com
@@ -190,6 +191,7 @@
 0.0.0.0 interac.retours-clientele.com
 0.0.0.0 interace-transfr-secureverlfy-alert.com
 0.0.0.0 itemintransitcanada.info
+0.0.0.0 j7v4m9f3s2b6n6.com
 0.0.0.0 jlabh.fulls.info
 0.0.0.0 k1ti.com
 0.0.0.0 leadersrevenu.com
