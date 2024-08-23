@@ -86,6 +86,7 @@
 0.0.0.0 bureau-amendeqc.com
 0.0.0.0 ca-postgdm.top
 0.0.0.0 cad-loan.com
+0.0.0.0 cadpost-delivery.com
 0.0.0.0 cadrevenue24.co
 0.0.0.0 can-post-delivery.com
 0.0.0.0 can140-etdeposit-secureaccount.help
@@ -320,6 +321,7 @@
 0.0.0.0 tdcanadatrustwallet.com
 0.0.0.0 tegmom.fulls.info
 0.0.0.0 ticket-pay-2024.com
+0.0.0.0 tprioritymailsservices.com
 0.0.0.0 tonservicedepotmobile.ca
 0.0.0.0 track-ups-order-ca.com
 0.0.0.0 tracking-update-ca.info
