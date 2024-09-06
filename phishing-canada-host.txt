@@ -123,6 +123,7 @@
 0.0.0.0 compteresoudre-netflix.com
 0.0.0.0 conexionritmica.com
 0.0.0.0 constatvdm.com
+0.0.0.0 contravention-villedemontreal.com
 0.0.0.0 costcoannualreturn.com
 0.0.0.0 costcowholesale-myrewards.com
 0.0.0.0 criptonteamltd.org
@@ -167,6 +168,7 @@
 0.0.0.0 fidowireless-refund.com
 0.0.0.0 gestionaccess.info
 0.0.0.0 gestionlocativespro.com
+0.0.0.0 gianttiger-cashback.com
 0.0.0.0 giftsfido.com
 0.0.0.0 gigadat-funds.live
 0.0.0.0 gigadatrefund.xyz
@@ -204,6 +206,7 @@
 0.0.0.0 login-my-gov.com
 0.0.0.0 loginvilledemontreal.com
 0.0.0.0 manageaccess.info
+0.0.0.0 managemyparking.com
 0.0.0.0 mobi-purolator.com
 0.0.0.0 mobile.rbc.com.34-ssl-re-45.com
 0.0.0.0 monaccesdesjardins.com
@@ -276,6 +279,7 @@
 0.0.0.0 rescheduledelivery-canpost.com
 0.0.0.0 resetmynew-delivery-fedex.com
 0.0.0.0 reshedule-canadapost-postecanada.com
+0.0.0.0 revenuecanada-agency.site
 0.0.0.0 review-profile.com
 0.0.0.0 revisionofshipdetials1adjustment.info
 0.0.0.0 revquebec-depotgouv.com
@@ -335,6 +339,7 @@
 0.0.0.0 urxetqw.com
 0.0.0.0 uscng.pw
 0.0.0.0 usps-xc-track.com
+0.0.0.0 vat-redelivery.com
 0.0.0.0 verlfymyvidenfity-secureweb.info
 0.0.0.0 ville-quebec-ticket-parking.com
 0.0.0.0 villedemontreal-constatcontravention.ca
