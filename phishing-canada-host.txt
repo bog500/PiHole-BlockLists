@@ -1,11 +1,12 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-09-06
+# Version: 2024-09-24
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0n1ineg0v2candcaz2s3h.com
 0.0.0.0 0secure-royalbank.com
 0.0.0.0 2024gstz4.com
+0.0.0.0 2fa-client-rogers.com
 0.0.0.0 3bnc-canada9atw.com
 0.0.0.0 407etr-account.com
 0.0.0.0 407etr-tolls.com
@@ -13,6 +14,7 @@
 0.0.0.0 5-giftbox.com
 0.0.0.0 7bnc4s0lution3167.com
 0.0.0.0 a-25pont.com
+0.0.0.0 a-25rappel.com
 0.0.0.0 a25-aide.com
 0.0.0.0 a25-clients.com
 0.0.0.0 a25-express.com
@@ -118,6 +120,7 @@
 0.0.0.0 canadcv.top
 0.0.0.0 cibc-mylogin.com
 0.0.0.0 cibc.ilies.ro
+0.0.0.0 cityparkco.online
 0.0.0.0 client.hydroquebec.cam
 0.0.0.0 colispostecanada.com
 0.0.0.0 compteresoudre-netflix.com
@@ -158,6 +161,7 @@
 0.0.0.0 facturationsaaq2024-etransfer.com
 0.0.0.0 facturationsaaq2024etransfer.com
 0.0.0.0 facture042024.com
+0.0.0.0 failed652-attempt-fedex-ca.com
 0.0.0.0 fastpostcan.com
 0.0.0.0 fbingshop.top
 0.0.0.0 fedex-order-id5284628.com
@@ -205,16 +209,20 @@
 0.0.0.0 lnteracs1.com
 0.0.0.0 login-my-gov.com
 0.0.0.0 loginvilledemontreal.com
+0.0.0.0 mafacturea25.com
 0.0.0.0 manageaccess.info
 0.0.0.0 managemyparking.com
 0.0.0.0 mobi-purolator.com
+0.0.0.0 mobile.parkandpay-ca.com
 0.0.0.0 mobile.rbc.com.34-ssl-re-45.com
 0.0.0.0 monaccesdesjardins.com
 0.0.0.0 msss.gouv-sante.ca
 0.0.0.0 mycfdcapital.com
 0.0.0.0 mycibc-account-secure.com
 0.0.0.0 mycragrocerysupport.com
+0.0.0.0 myorder-canada5394-post7294-info.com
 0.0.0.0 myrogersprofile-login.com
+0.0.0.0 myupportal.online
 0.0.0.0 nbc-connexion.com
 0.0.0.0 netfastshop.com
 0.0.0.0 netflix-updateinfo.com
@@ -271,6 +279,7 @@
 0.0.0.0 reactivation-compte.com
 0.0.0.0 receive00001.online
 0.0.0.0 receivetransfer-et3.com
+0.0.0.0 redelivtls.online
 0.0.0.0 refundsolutions2024.com
 0.0.0.0 registerpaymentonline.info
 0.0.0.0 reminder-fundsmissing.info
