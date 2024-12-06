@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-09-24
+# Version: 2024-12-05
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0n1ineg0v2candcaz2s3h.com
@@ -100,6 +100,7 @@
 0.0.0.0 canada-postesca.com
 0.0.0.0 canada-postinfo.info
 0.0.0.0 canada-royal-banking-customer-security.info
+0.0.0.0 canada.postcanadanrb.fun
 0.0.0.0 canadadirectdepositgov.com
 0.0.0.0 canadapost-a.ca
 0.0.0.0 canadapost-postelscanada.top
@@ -138,6 +139,8 @@
 0.0.0.0 desjardins-auth1-mouv.com
 0.0.0.0 dhl-customsclearance.com
 0.0.0.0 dhl-global-services-id00031984.com
+0.0.0.0 dossiercirculation.com
+0.0.0.0 dossierpassage.com
 0.0.0.0 dossiers-antaigouv.com
 0.0.0.0 e4566r-etransfer-interac.com
 0.0.0.0 easywebtd-authentication.com
@@ -156,6 +159,7 @@
 0.0.0.0 express-tollroute407.com
 0.0.0.0 expresstoll-route407.com
 0.0.0.0 expresstollroute407.com
+0.0.0.0 facturationa25.com
 0.0.0.0 facturationsaaq-etransfer.com
 0.0.0.0 facturationsaaq2024-etranfer.com
 0.0.0.0 facturationsaaq2024-etransfer.com
@@ -241,6 +245,7 @@
 0.0.0.0 parcel-ups.com
 0.0.0.0 payment-a25.com
 0.0.0.0 payment9-iintfertfnd.weebly.com
+0.0.0.0 peagegestion.com
 0.0.0.0 ponta25-webpaiement.com
 0.0.0.0 portail-lotoquebec.com
 0.0.0.0 post-canada-delivery2023.com
@@ -298,6 +303,7 @@
 0.0.0.0 royalbank-online-aurh.com
 0.0.0.0 royalbankcanada1-auth.com
 0.0.0.0 royalbnkcanada-verify-client-access.com
+0.0.0.0 saaqcliqbilan.com
 0.0.0.0 saaqetransfer-2024.com
 0.0.0.0 scoaccount.ga
 0.0.0.0 scotia-onlinebanking.com
@@ -342,6 +348,7 @@
 0.0.0.0 tprioritymailsservices.com
 0.0.0.0 track-ups-order-ca.com
 0.0.0.0 tracking-update-ca.info
+0.0.0.0 transfer-saaq.com
 0.0.0.0 trkslink.top
 0.0.0.0 ups-parcel.ca
 0.0.0.0 upsenlignefraisauclientqc.com
@@ -363,6 +370,7 @@
 0.0.0.0 villedemontreal-paiementcontravention.ca
 0.0.0.0 villedemontreal-paiementcontraventions.ca
 0.0.0.0 villedemontreal-paiementdecontraventions.ca
+0.0.0.0 virement-interac-saaq.com
 0.0.0.0 vwwwv-findmyphone.us
 0.0.0.0 webre.vn
 0.0.0.0 wvwvw-findmyphone.us
@@ -375,6 +383,7 @@
 0.0.0.0 www.receivetransfer-et3.com
 0.0.0.0 www.romaintexwil.nl
 0.0.0.0 www.sslmobilityreturns.com
+0.0.0.0 www.transfer-saaq.com
 0.0.0.0 www.xn--bc-qzs.com
 0.0.0.0 www.xyrialimmocanada.online
 0.0.0.0 www1.royalbank.com.cgi-bin-rbaccess-rbunxcgi.gq
