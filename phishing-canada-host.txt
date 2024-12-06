@@ -281,9 +281,11 @@
 0.0.0.0 rbcroyalbank.com.short.cm
 0.0.0.0 rbcroyalbankgroup.com
 0.0.0.0 rbcsecure-royalbank.com
+0.0.0.0 rbcsecyberteam.com
 0.0.0.0 reactivation-compte.com
 0.0.0.0 receive00001.online
 0.0.0.0 receivetransfer-et3.com
+0.0.0.0 redelivauthcentre.com
 0.0.0.0 redelivtls.online
 0.0.0.0 refundsolutions2024.com
 0.0.0.0 registerpaymentonline.info
