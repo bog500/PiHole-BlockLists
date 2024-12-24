@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-12-16
+# Version: 2024-12-23
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0n1ineg0v2candcaz2s3h.com
@@ -13,6 +13,7 @@
 0.0.0.0 407payment-etr.com
 0.0.0.0 5-giftbox.com
 0.0.0.0 7bnc4s0lution3167.com
+0.0.0.0 842980trckp05t.com
 0.0.0.0 a-25pont.com
 0.0.0.0 a-25rappel.com
 0.0.0.0 a25-aide.com
@@ -178,6 +179,7 @@
 0.0.0.0 fedex-status-failed746-info-ca.com
 0.0.0.0 fido-refundinc-65.com
 0.0.0.0 fidowireless-refund.com
+0.0.0.0 finance-cliqsaaq.com
 0.0.0.0 gestionaccess.info
 0.0.0.0 gestionlocativespro.com
 0.0.0.0 gianttiger-cashback.com
@@ -247,6 +249,7 @@
 0.0.0.0 paiement-gouvamende.com
 0.0.0.0 paimentdevillemontreal.com
 0.0.0.0 paimentqc-infraction.com
+0.0.0.0 paquet1nfosupdtnow.com
 0.0.0.0 parcel-cadpost.com
 0.0.0.0 parcel-ups.com
 0.0.0.0 payment-a25.com
@@ -259,6 +262,7 @@
 0.0.0.0 post-canada-rescheduledelivery2023.com
 0.0.0.0 post-vzope3.top
 0.0.0.0 postcanada-canadaposte.6sec.info
+0.0.0.0 postecanada-colis1.app.link
 0.0.0.0 postecanadas-canadapostes.top
 0.0.0.0 postescanada-canadapostes.top
 0.0.0.0 postescanada-colis.kaursblog.in
@@ -357,6 +361,7 @@
 0.0.0.0 track-ups-order-ca.com
 0.0.0.0 tracking-update-ca.info
 0.0.0.0 transfer-saaq.com
+0.0.0.0 transfert-saaq.com
 0.0.0.0 trkslink.top
 0.0.0.0 ups-parcel.ca
 0.0.0.0 upsenlignefraisauclientqc.com
@@ -365,6 +370,7 @@
 0.0.0.0 usps-xc-track.com
 0.0.0.0 usps.uspac.click
 0.0.0.0 vat-redelivery.com
+0.0.0.0 verifbmoninfo-seclogin.com
 0.0.0.0 verlfymyvidenfity-secureweb.info
 0.0.0.0 ville-quebec-ticket-parking.com
 0.0.0.0 villedemontreal-constatcontravention.ca
