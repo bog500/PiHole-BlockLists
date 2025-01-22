@@ -1,6 +1,6 @@
 # Title: Phishing
 # Description: Phishing domains received in Canada
-# Version: 2024-12-23
+# Version: 2024-01-22
 
 0.0.0.0 045.giga-t.top
 0.0.0.0 0n1ineg0v2candcaz2s3h.com
@@ -87,6 +87,7 @@
 0.0.0.0 bmo.m2-online-ca.com
 0.0.0.0 bmo.oniineca.com
 0.0.0.0 bmopersonalclient.com
+0.0.0.0 bmosecurereview-details.com
 0.0.0.0 bmwmotorradvip.shop
 0.0.0.0 bnc-clientservice.com
 0.0.0.0 bnc-verification.ca
@@ -142,6 +143,7 @@
 0.0.0.0 delivery-canadapost.ca
 0.0.0.0 deliveryrearrangingpage.info
 0.0.0.0 desjardins-auth1-mouv.com
+0.0.0.0 desjardins1-authweb.online
 0.0.0.0 dhl-customsclearance.com
 0.0.0.0 dhl-global-services-id00031984.com
 0.0.0.0 dossiercirculation.com
@@ -201,6 +203,7 @@
 0.0.0.0 img.skartinx.com
 0.0.0.0 info-compte.com
 0.0.0.0 info-tracking-fedex-ca.com
+0.0.0.0 infodesjardinslogin.com
 0.0.0.0 infopostescanada.com
 0.0.0.0 inforbcroyalbank-secure.com
 0.0.0.0 infosecure-rbcroyalbank.com
@@ -295,6 +298,7 @@
 0.0.0.0 reactivation-compte.com
 0.0.0.0 receive00001.online
 0.0.0.0 receivetransfer-et3.com
+0.0.0.0 recevoirmescolis.com
 0.0.0.0 redelivauthcentre.com
 0.0.0.0 redelivtls.online
 0.0.0.0 refundsolutions2024.com
@@ -315,6 +319,7 @@
 0.0.0.0 royalbank-online-aurh.com
 0.0.0.0 royalbankcanada1-auth.com
 0.0.0.0 royalbnkcanada-verify-client-access.com
+0.0.0.0 saaq-saaqclic.com
 0.0.0.0 saaqcliqbilan.com
 0.0.0.0 saaqetransfer-2024.com
 0.0.0.0 scoaccount.ga
