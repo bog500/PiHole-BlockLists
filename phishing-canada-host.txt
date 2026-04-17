@@ -415,3 +415,13 @@
 0.0.0.0 www1.royalbank.com.cgi-bin-rbaccess-rbunxcgi.gq
 0.0.0.0 www1bmo.info
 0.0.0.0 wwwet-interac.com
+0.0.0.0 gerer-monpermis.com
+0.0.0.0 bmosecure-detailver.com
+0.0.0.0 mtl-impaye.com
+0.0.0.0 a25laval.com
+0.0.0.0 a25-charge.com
+0.0.0.0 a25-gestion.com
+0.0.0.0 facturationa25.com
+0.0.0.0 facturatio.na25.com
+0.0.0.0 setup-canada6517-post4278-now.com
+0.0.0.0 portal-canaa374-post835-info.com
