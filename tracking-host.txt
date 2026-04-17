@@ -1,0 +1,9 @@
+# Title: Tracking
+# Description: Tracking domains received in Canada
+
+# metro.ca
+0.0.0.0 d2o5idwacg3gyw.cloudfront.net
+# superc.ca
+0.0.0.0 d37l98t2r94go6.cloudfront.net
+# iga.ca
+0.0.0.0 sobeys-privacy.my.onetrust.com
